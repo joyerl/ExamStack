@@ -1,6 +1,6 @@
 set SERVICE_NAME=ScoreMarkerService
 
-set APP_HOME=D:\service
+set APP_HOME=F:\Pro_Idea\ExamStack
 set PR_INSTALL=%APP_HOME%\prunsrv.exe
  
 REM Service log configuration

@@ -63,7 +63,7 @@
 		<property name="authenticationFailureHandler">
 			<bean
 				class="org.springframework.security.web.authentication.SimpleUrlAuthenticationFailureHandler">
-				<property name="defaultFailureUrl" value="/user-login-page?result=failed" />
+				<property name="defaultFailureUrl" value="/user-login-page?result=failed" /><!--/user-login-page?result=failed-->
 			</bean>
 		</property>
 
